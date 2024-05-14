@@ -28,7 +28,7 @@ const Navbar = () => {
           /> */}
 
           <h2 className="text-2xl font-bold leading-tight md:pb-1  ">
-            nuzha<span className="text-primary">kashmir</span>
+            JK<span className="text-primary">AIP</span>
           </h2>
         </div>
         </Link>
