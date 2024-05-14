@@ -19,16 +19,16 @@ const Navbar = () => {
       <Link href="/">
         <div className="flex items-end">
          
-          <Image
+          {/* <Image
             src="/Images/logo-white.png"
             alt="forests"
             width={30}
             height={30}
             className="md:w-12  md:h-12"
-          />
+          /> */}
 
           <h2 className="text-2xl font-bold leading-tight md:pb-1  ">
-            nuzha<span className="text-primary">kashmir</span>
+            JK<span className="text-primary">AIP</span>
           </h2>
         </div>
         </Link>
