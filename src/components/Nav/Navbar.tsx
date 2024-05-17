@@ -14,8 +14,8 @@ const Navbar = () => {
 
   
   return (
-    <header className="bg-slate-900 text-slate-100">
-      <nav className="px-4 relative bg-slate-900 text-slate-100 flex justify-between items-center h-16 max-w-6xl mx-auto z-30 shadow-xl transition-all duration-500">
+    <header className="bg-lime-900 text-slate-100 h-[10vh]">
+      <nav className="px-4 relative text-slate-100 flex justify-between items-center h-16 max-w-6xl mx-auto z-30  transition-all duration-500">
       <Link href="/">
         <div className="flex items-end">
          
