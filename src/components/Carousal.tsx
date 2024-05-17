@@ -9,7 +9,7 @@ export default function EmblaCarousel() {
   const [emblaRef] = useEmblaCarousel({loop: true},[Autoplay()]);  
 
   return (
-    <div className="embla h-[45vh] lg:h-[90vh] w-full bg-green-300" ref={emblaRef}>
+    <div className="embla h-[30vh] lg:h-[90vh] w-full bg-green-300" ref={emblaRef}>
       <div className="embla__container h-full">
         <div className="embla__slide flex justify-center items-start">
          <Image src="/Images/Carousal/c1.jpg" alt="" className="w-full" width={900} height={640} />
